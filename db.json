@@ -4,36 +4,37 @@
       "id": 1,
       "image": "https://placeimg.com/600/300/nature",
       "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards",
+      "description": "This is a demo for Tinder like swipe cards"
     },
     {
       "id": 2,
       "image": "https://placeimg.com/600/300/people",
       "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards",
+      "description": "This is a demo for Tinder like swipe cards"
     },
     {
       "id": 3,
       "image": "https://placeimg.com/600/300/animals",
       "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards",
+      "description": "This is a demo for Tinder like swipe cards"
     },
     {
       "id": 4,
       "image": "https://placeimg.com/600/300/tech",
       "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards",
+      "description": "This is a demo for Tinder like swipe cards"
     },
     {
       "id": 5,
       "image": "https://placeimg.com/600/300/nature/grayscale",
       "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards",
+      "description": "This is a demo for Tinder like swipe cards"
     },
     {
       "id": 6,
       "image": "https://placeimg.com/600/300/animals/sepia",
       "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards",
+      "description": "This is a demo for Tinder like swipe cards"
     }
+  ]
 }
