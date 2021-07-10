@@ -2,39 +2,45 @@
   "profiles": [
     {
       "id": 1,
-      "image": "https://placeimg.com/600/300/nature",
-      "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards"
+      "avatar": "https://placeimg.com/600/300/nature",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
     },
     {
       "id": 2,
-      "image": "https://placeimg.com/600/300/people",
-      "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards"
+      "avatar": "https://placeimg.com/600/300/people",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
     },
     {
       "id": 3,
-      "image": "https://placeimg.com/600/300/animals",
-      "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards"
+      "avatar": "https://placeimg.com/600/300/animals",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
     },
     {
       "id": 4,
-      "image": "https://placeimg.com/600/300/tech",
-      "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards"
+      "avatar": "https://placeimg.com/600/300/tech",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
     },
     {
       "id": 5,
-      "image": "https://placeimg.com/600/300/nature/grayscale",
-      "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards"
+      "avatar": "https://placeimg.com/600/300/nature/grayscale",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
     },
     {
       "id": 6,
-      "image": "https://placeimg.com/600/300/animals/sepia",
-      "title": "First card",
-      "description": "This is a demo for Tinder like swipe cards"
+      "avatar": "https://placeimg.com/600/300/animals/sepia",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
     }
   ]
 }
