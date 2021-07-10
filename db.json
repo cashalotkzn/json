@@ -41,6 +41,34 @@
       "name": "Ashley",
       "age": 23,
       "status": "gudluca2 forever"
+    },
+    {
+      "id": 7,
+      "avatar": "https://placeimg.com/600/300/nature",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
+    },
+    {
+      "id": 8,
+      "avatar": "https://placeimg.com/600/300/people",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
+    },
+    {
+      "id": 9,
+      "avatar": "https://placeimg.com/600/300/animals",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
+    },
+    {
+      "id": 10,
+      "avatar": "https://placeimg.com/600/300/tech",
+      "name": "Ashley",
+      "age": 23,
+      "status": "gudluca2 forever"
     }
   ]
 }
