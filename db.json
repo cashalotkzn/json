@@ -2,73 +2,132 @@
   "profiles": [
     {
       "id": 1,
-      "avatar": "https://placeimg.com/600/300/nature",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 2,
       "avatar": "https://placeimg.com/600/300/people",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 3,
       "avatar": "https://placeimg.com/600/300/animals",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 4,
       "avatar": "https://placeimg.com/600/300/tech",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 5,
       "avatar": "https://placeimg.com/600/300/nature/grayscale",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 6,
       "avatar": "https://placeimg.com/600/300/animals/sepia",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 7,
       "avatar": "https://placeimg.com/600/300/nature",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 8,
       "avatar": "https://placeimg.com/600/300/people",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 9,
       "avatar": "https://placeimg.com/600/300/animals",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     },
     {
       "id": 10,
       "avatar": "https://placeimg.com/600/300/tech",
       "name": "Ashley",
       "age": 23,
-      "status": "gudluca2 forever"
+      "status": "gudluca2 forever",
+      "photos": [
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature", 
+        "https://placeimg.com/600/300/nature"
+      ]
     }
   ]
 }
