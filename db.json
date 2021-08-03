@@ -26,7 +26,7 @@
           id: 4,
           type: "money",
           title: "investing",
-        },
+        }
       ],
       "photos": [
         "https://placeimg.com/600/300/nature", 
