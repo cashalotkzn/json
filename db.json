@@ -10,22 +10,22 @@
         {
           "id": 1,
           "type": "music",
-          "title": "metallica",
+          "title": "metallica"
         },
         {
           "id": 2,
           "type": "art",
-          "title": "picasso",
+          "title": "picasso"
         },
         {
           "id": 3,
           "type": "film",
-          "title": "comedy",
+          "title": "comedy"
         },
         {
           "id": 4,
           "type": "money",
-          "title": "investing",
+          "title": "investing"
         }
       ],
       "photos": [
