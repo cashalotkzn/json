@@ -13,6 +13,21 @@
           "title": "metallica"
         },
         {
+          "id": 5,
+          "type": "music",
+          "title": "SOAD"
+        },
+        {
+          "id": 6,
+          "type": "music",
+          "title": "rammstein"
+        },
+        {
+          "id": 7,
+          "type": "music",
+          "title": "Гриша Лепс"
+        },
+        {
           "id": 2,
           "type": "art",
           "title": "picasso"
