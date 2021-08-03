@@ -41,7 +41,17 @@
           "id": 4,
           "type": "money",
           "title": "investing"
-        }
+        },
+        {
+          "id": 8,
+          "type": "money",
+          "title": "TESLA"
+        },
+        {
+          "id": 9,
+          "type": "money",
+          "title": "Tinkoff Group"
+        },
       ],
       "photos": [
         "https://placeimg.com/600/300/nature", 
