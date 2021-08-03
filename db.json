@@ -8,24 +8,24 @@
       "about": "I love eating healthy and working out. You can most likely find me at the gym!",
       "interests": [
         {
-          id: 1,
-          type: "music",
-          title: "metallica",
+          "id": 1,
+          "type": "music",
+          "title": "metallica",
         },
         {
-          id: 2,
-          type: "art",
-          title: "picasso",
+          "id": 2,
+          "type": "art",
+          "title": "picasso",
         },
         {
-          id: 3,
-          type: "film",
-          title: "comedy",
+          "id": 3,
+          "type": "film",
+          "title": "comedy",
         },
         {
-          id: 4,
-          type: "money",
-          title: "investing",
+          "id": 4,
+          "type": "money",
+          "title": "investing",
         }
       ],
       "photos": [
